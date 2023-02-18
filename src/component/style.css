@@ -1,0 +1,986 @@
+.containt{
+    
+    position: relative;
+    width: 1440px;
+    height: 1024px;
+    overflow-y: scroll;
+background: #000000;
+}
+
+.homepage{
+    position: relative;
+width: 1440px;
+height: 1024px;
+overflow-y: scroll;
+}
+.navbar-t{
+    position: absolute;
+    left: -0.07%;
+    right: 0.07%;
+    top: 0.02%;
+    bottom: 95.89%;
+    padding: 55px;
+    font-family: 'Red Rose';
+}
+
+
+li {
+    display: inline;
+  } 
+
+button{
+    box-sizing: border-box;
+
+    /* Auto layout */
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 25px;
+    gap: 10px;
+    
+    position: absolute;
+    top: calc(50% - 41px/2 - 0.5px);
+    background: #000000;
+    border-radius: 50px;
+}
+.button-comp{
+    display:flex;
+    padding: 25px;
+}
+.nav-bt1{
+    
+    width: 118px;
+    height: 41px;
+    right: 665px;
+    font-family: 'Red Rose';
+    border-top: 2px solid #EB0CD5;
+    border-bottom: 2px solid #E52727;
+    
+    
+    }
+.nav-bt2{
+    
+width: 148px;
+height: 41px;
+right: 503px;
+border-top: 2px solid #EB0CD5;
+border-bottom: 2px solid #E52727;
+font-family: 'Red Rose';
+
+
+}
+.nav-bt3{
+   
+    width: 153px;
+    height: 41px;
+    right: 336px;
+border-top: 2px solid #EB0CD5;
+border-bottom: 2px solid #E52727;
+font-family: 'Red Rose';
+}
+.nav-bt4{
+    
+width: 202px;
+height: 45px;
+right: 56px;
+
+font-family: 'Red Rose';
+background: linear-gradient(82.96deg, #EB0CD5 0%, #E52727 100%);
+}
+.logo{
+    position: absolute;
+width: 224px;
+height: 78px;
+left: 36px;
+top: calc(50% - 78px/2);
+
+background: url(ZETAPASS.png);
+}
+
+.center-text{
+    position: absolute;
+width: 685px;
+height: 308px;
+left: 124px;
+top: 318px;
+
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)) drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.center-text1{
+    position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: 'Red Rose';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 62px;
+
+color: #FFFFFF;
+}
+
+.text1{
+    /* Events */
+
+
+width: 68px;
+height: 25px;
+
+font-family: 'Red Rose';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.text2{
+    width: 98px;
+height: 25px;
+
+font-family: 'Red Rose';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.text3{
+    width: 98px;
+height: 25px;
+
+font-family: 'Red Rose';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.text4{
+    width: 152px;
+height: 25px;
+
+font-family: 'Red Rose';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 25px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.color1{
+    position: absolute;
+width: 342px;
+height: 342px;
+left: 971px;
+top: 241px;
+border-radius: 50%;
+background: linear-gradient(162.03deg, #EB0CD5 -6.76%, #E52727 60.96%);
+
+}
+.color2{
+    
+    position: absolute;
+    width: 454px;
+    height: 458px;
+    left: 0px;
+    top: 185px;
+    border-radius: 50%;
+    background: linear-gradient(161.65deg, #00F0FF -3.34%, #0075FF 69.8%);
+    transform: rotate(90deg);  
+    -webkit-text-fill-color: transparent;
+-webkit-background-clip:initial;
+}
+
+span{
+    background: linear-gradient(to right, #E52727,
+    #EB0CD4
+);
+-webkit-text-fill-color: transparent;
+-webkit-background-clip: text;
+}
+
+.ani-but1{
+    
+box-sizing: border-box;
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 25px;
+gap: 10px;
+
+position: absolute;
+left: -0.2%;
+right: 74.95%;
+top: 86.67%;
+bottom: 0.02%;
+
+border-radius: 50px;
+    border-top: 2px solid #EB0CD5;
+border-bottom: 2px solid #E52727;
+font-family: 'Red Rose';
+}
+.ani-but2{
+
+    /* Button comp */
+
+
+box-sizing: border-box;
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 25px;
+gap: 10px;
+
+position: absolute;
+left: 28.7%;
+right: 41.95%;
+top: 86.67%;
+bottom: 0.02%;
+
+border-radius: 50px;
+    border-top: 2px solid #EB0CD5;
+border-bottom: 2px solid #E52727;
+font-family: 'Red Rose';
+}
+#text1{
+    width: 128px;
+    height: 25px;
+    
+    font-family: 'Red Rose';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+#text2{
+    width: 151px;
+    height: 25px;
+    
+    font-family: 'Red Rose';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 0;
+    flex-grow: 0
+}
+
+.NFT-card{
+   
+position: absolute;
+width: 270px;
+height: 372px;
+left: 980px;
+top: calc(50% - 372px/2);
+
+background: #FFFFFF;
+border-radius: 24px;
+}
+.frame-1{
+    /* Frame 1 */
+
+    position: absolute;
+    width: 270px;
+    height: 372px;
+    left: 980px;
+    top: calc(50% - 372px/2);
+    
+    background: #FFFFFF;
+    border-radius: 24px;
+}
+.NFT-text{
+    
+position: absolute;
+width: 165px;
+height: 32px;
+left: 52px;
+top: 311px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 29px;
+line-height: 34px;
+
+background: linear-gradient(268.31deg, #E52727 -27.68%, #EB0CD5 121.44%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+}
+.NFT-card1{
+   
+    position: absolute;
+    width: 270px;
+    height: 372px;
+    left: 980px;
+    top: calc(50% - 372px/2);
+    
+    background: #FFFFFF;
+    border-radius: 24px;
+    }
+
+    .NFT-card2{
+   
+        position: absolute;
+        width: 270px;
+        height: 372px;
+        left: 980px;
+        top: calc(50% - 372px/2);
+        
+        background: #FFFFFF;
+        border-radius: 24px;
+        }
+        .NFT-card3{
+   
+            position: absolute;
+            width: 270px;
+            height: 372px;
+            left: 980px;
+            top: calc(50% - 372px/2);
+            -webkit-backface-visibility: hidden; /* Safari */
+  backface-visibility: hidden;
+            background: #FFFFFF;
+            border-radius: 24px;
+            transition: transform 0.7s ease-in-out;
+            }
+.NFT-card:hover{
+    transform: rotate(45deg);
+        }
+
+.event{
+    position: absolute;
+width: 1440px;
+height: 795px;
+left: -1px;
+top: 774px
+}
+.left-p{
+    position: absolute;
+width: 530px;
+height: 426px;
+left: 127px;
+top: 168px;
+
+}
+
+.top-eve{
+    /* Join the Events */
+display: inline;
+position: absolute;
+width: 369px;
+height: 62px;
+left: 0px;
+top: 0px;
+
+font-family: 'Red Rose';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 62px;
+
+color: #FFFFFF;
+}
+.event-text{
+    position: absolute;
+width: 526px;
+height: 286px;
+left: 4px;
+top: 138px;
+
+font-family: 'Red Rose';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+
+color: rgba(255, 255, 255, 0.5);
+
+}
+.event-text button{
+    /* Auto layout */
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px 25px;
+gap: 10px;
+
+position: absolute;
+width: 126px;
+height: 45px;
+left: 7px;
+top: 381px;
+
+background: linear-gradient(82.96deg, #EB0CD5 0%, #E52727 100%);
+border-radius: 50px;
+}
+.event-text h4{
+    width: 76px;
+height: 25px;
+
+font-family: 'Red Rose';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 25px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.course-card{
+
+    
+position: absolute;
+width: 589px;
+height: 478px;
+left: 670px;
+top: 159px;
+
+}
+.course-card1{
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 373px;
+    height: 319px;
+    left: 216px;
+    top: 159px;
+    
+    background: linear-gradient(306.18deg, rgba(0, 0, 0, 0.25) 0%, rgba(255, 255, 255, 0.25) 100%);
+    box-shadow: -24px 20px 20px rgba(0, 0, 0, 0.45);
+    backdrop-filter: blur(12.5px);
+    /* Note: backdrop-filter has minimal browser support */
+    
+    border-radius: 9px;
+}
+.course-card1-img{
+    
+position: absolute;
+width: 330px;
+height: 204px;
+left: 22px;
+top: 16px;
+
+background: url(./assest/Rectangle6.png), #D9D9D9;
+border-radius: 9px;
+}
+.course-card1 h3{
+    
+position: absolute;
+width: 135px;
+height: 50px;
+left: calc(50% - 135px/2 - 14px);
+top: 240px;
+
+font-family: 'Red Rose';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 50px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.course-card2{
+    
+box-sizing: border-box;
+
+position: absolute;
+width: 373px;
+height: 319px;
+left: 124px;
+top: 0px;
+overflow: hidden;
+background: linear-gradient(306.18deg, rgba(0, 0, 0, 0.25) 0%, rgba(255, 255, 255, 0.25) 100%);
+box-shadow: -24px 20px 20px rgba(0, 0, 0, 0.45);
+backdrop-filter: blur(12.5px);
+/* Note: backdrop-filter has minimal browser support */
+
+border-radius: 9px;
+}
+.course-card2-img{
+    
+position: absolute;
+width: 330px;
+height: 204px;
+left: 22px;
+top: 16px;
+
+background: url(./assest/bitcoin.png), #D9D9D9;
+border-radius: 9px;
+}
+.course-card3{
+    
+box-sizing: border-box;
+
+position: absolute;
+width: 373px;
+height: 319px;
+left: 0px;
+top: 71px;
+
+background: linear-gradient(306.18deg, rgba(0, 0, 0, 0.25) 0%, rgba(255, 255, 255, 0.25) 100%);
+box-shadow: -24px 20px 20px rgba(0, 0, 0, 0.45);
+backdrop-filter: blur(12.5px);
+/* Note: backdrop-filter has minimal browser support */
+
+border-radius: 9px;
+}
+.course-card3-img{
+    
+position: absolute;
+width: 330px;
+height: 204px;
+left: 22px;
+top: 16px;
+
+background: url(./assest/Rectangle61.png), #D9D9D9;
+border-radius: 9px;
+}
+.course-card3 h3{
+    
+position: absolute;
+width: 135px;
+height: 50px;
+left: calc(50% - 135px/2 - 14px);
+bottom: 29px;
+
+font-family: 'Red Rose';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 50px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.course{
+    position: absolute;
+width: 1440px;
+height: 795px;
+left: 0px;
+top: 1531px;
+}
+.left-c{
+    
+position: absolute;
+width: 530px;
+height: 62px;
+left: 803px;
+top: 159px;
+
+font-family: 'Red Rose';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 62px;
+
+color: #FFFFFF;
+
+}
+.right-c{
+    
+position: absolute;
+width: 526px;
+height: 286px;
+left: 807px;
+top: 297px;
+
+font-family: 'Red Rose';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+
+color: rgba(255, 255, 255, 0.5);
+
+}
+.right-r{
+    position: absolute;
+width: 589px;
+height: 478px;
+left: -574px;
+top: 159px;
+}
+
+.tagline{
+    position: absolute;
+width: 1440px;
+height: 104px;
+left: 0px;
+top: 2375px;
+}
+#tagline{
+    
+position: absolute;
+width: 5850px;
+height: 104px;
+left: -15px;
+top: 0px;
+}
+#tag-web3{
+    /* WEB3 */
+
+
+position: absolute;
+width: 133px;
+height: 59px;
+left: 24px;
+top: calc(50% - 59px/2 - 0.5px);
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 59px;
+/* identical to box height */
+
+
+color: #A6A6A6;
+}
+
+.team{
+   
+position: absolute;
+width: 1440px;
+height: 668px;
+left: 1px;
+top: 2615px;
+}
+.group-team{
+    
+position: absolute;
+width: 1295px;
+height: 449px;
+left: 71px;
+top: 161px;
+}
+.profile-card1{
+    
+    box-sizing: border-box;
+
+    /* Auto layout */
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 16px 21px 15px;
+    gap: 4px;
+    
+    position: absolute;
+    width: 375px;
+    height: 449px;
+    left: 531px;
+    top: 161px;
+    
+    background: linear-gradient(306.18deg, rgba(0, 0, 0, 0.25) 0%, rgba(255, 255, 255, 0.25) 100%);
+    box-shadow: -24px 20px 20px rgba(0, 0, 0, 0.45);
+    backdrop-filter: blur(12.5px);
+    /* Note: backdrop-filter has minimal browser support */
+    
+    border-radius: 9px;
+}
+.profile-img{
+    width: 333px;
+    height: 317px;
+    
+    background: url(./ZETAPASS.png), #D9D9D9;
+    border-radius: 9px;
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 1;
+}
+.profile-text{
+
+    width: 234px;
+    height: 30px;
+    
+    font-family: 'Red Rose';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+.profile-card1 h6{
+    
+width: 77px;
+height: 17px;
+
+font-family: 'Red Rose';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+
+color: #A6A6A6;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 2;
+flex-grow: 0;
+}
+#profile-frame{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px;
+gap: 10px;
+
+width: 110px;
+height: 42px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 3;
+flex-grow: 0;
+}
+#linkedin{
+    
+width: 25px;
+height: 25px;
+
+background: #D2D2D2;
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+#insta{
+    width: 25px;
+height: 25px;
+
+background: #D2D2D2;
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+#twitter{
+    position: absolute;
+left: 70.45%;
+right: 6.82%;
+top: 20.24%;
+bottom: 20.24%;
+
+background: #D2D2D2;
+}
+.profile-cic{
+    
+position: absolute;
+left: 70.45%;
+right: 6.82%;
+top: 20.24%;
+bottom: 20.24%;
+border-radius: 50%;
+border: #FFFFFF 2px;
+background: #D2D2D2;
+}
+.team h1{
+    position: absolute;
+width: 304px;
+height: 80px;
+left: calc(50% - 304px/2 - 16px);
+top: 31px;
+
+font-family: 'Red Rose';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 80px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.profile-card2{
+    /* Auto layout */
+
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 16px 21px 15px;
+gap: 4px;
+
+position: absolute;
+width: 375px;
+height: 449px;
+left: 71px;
+top: 161px;
+
+background: linear-gradient(306.18deg, rgba(0, 0, 0, 0.25) 0%, rgba(255, 255, 255, 0.25) 100%);
+box-shadow: -24px 20px 20px rgba(0, 0, 0, 0.45);
+backdrop-filter: blur(12.5px);
+/* Note: backdrop-filter has minimal browser support */
+
+border-radius: 9px;
+}
+.profile-img1{
+    width: 333px;
+height: 317px;
+
+background: url(./assest/Rectangle6.png), #D9D9D9;
+border-radius: 9px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+}
+.profile-img1 h2{
+    width: 114px;
+height: 30px;
+
+font-family: 'Red Rose';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+.profile-img1 h6{
+    
+width: 57px;
+height: 17px;
+
+font-family: 'Red Rose';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+
+color: #A6A6A6;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 2;
+flex-grow: 0;
+}
